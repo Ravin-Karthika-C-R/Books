@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(192, 241, 224);
+}
+form{
+    margin: auto;
+    display: flex;
+    width: 600px;
+}
+h1{
+    text-align: center;
+    margin: auto;
+    margin-right : 35%;
+    color: rgb(224, 125, 58);
+    
+}
+input{
+    width: 500px;
+}
+.btn{
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    /* margin-left: 200px; */
+    
+}
