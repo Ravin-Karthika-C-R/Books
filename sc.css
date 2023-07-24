@@ -14,7 +14,7 @@ form{
 button{
     justify-content: center;
     margin: auto;
-    
+    align-items:center ;
 }
 input{
     width: 800px;
@@ -23,9 +23,9 @@ input{
     
 }
 h1{
-    margin-left: 20%;
-    margin-bottom: 30px;
+    justify-content: center;
     text-align: center;
+    margin: auto;
 }
 
 
