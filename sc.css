@@ -1,4 +1,4 @@
-/* body{
+body{
     background-color: beige;
 
 }
@@ -7,6 +7,7 @@ form{
     flex-direction: column;
     width: 100%;
     padding: 6%;
+    color: aliceblue;
     background-color: black;
     justify-content: space-around;
 }
@@ -22,14 +23,10 @@ input{
     
 }
 h1{
-    margin: auto;
+    margin-left: 20%;
     margin-bottom: 30px;
-} */
+    text-align: center;
+}
 
 
-*{
-    margin: auto;
-}
-.container{
-    
-}
+
